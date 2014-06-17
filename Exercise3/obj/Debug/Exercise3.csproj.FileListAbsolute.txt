@@ -1,0 +1,6 @@
+C:\Users\enrico\Documents\Visual Studio 2013\Projects\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\enrico\Documents\Visual Studio 2013\Projects\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\enrico\Documents\Visual Studio 2013\Projects\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\enrico\Documents\Visual Studio 2013\Projects\Exercise3\Exercise3\obj\Debug\Exercise3.csprojResolveAssemblyReference.cache
+C:\Users\enrico\Documents\Visual Studio 2013\Projects\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\enrico\Documents\Visual Studio 2013\Projects\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
